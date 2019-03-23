@@ -15,3 +15,20 @@ C:\Users\Tagmir\source\repos\Laba 23 marta\StudentWithAdvisor\obj\Debug\StudentW
 C:\Users\Tagmir\source\repos\Laba 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.csproj.CopyComplete
 C:\Users\Tagmir\source\repos\Laba 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.exe
 C:\Users\Tagmir\source\repos\Laba 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.pdb
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\StudentWithAdvisor.exe.config
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\StudentWithAdvisor.exe
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\StudentWithAdvisor.pdb
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Student.exe
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Teacher.exe
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Person.exe.config
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Student.pdb
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Student.exe.config
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Teacher.pdb
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\bin\Debug\Teacher.exe.config
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.csprojAssemblyReference.cache
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.csproj.CoreCompileInputs.cache
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.csproj.CopyComplete
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.exe
+C:\Users\Tagmir\source\repos\Laba ot 23 marta\StudentWithAdvisor\obj\Debug\StudentWithAdvisor.pdb

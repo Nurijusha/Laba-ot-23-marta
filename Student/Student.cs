@@ -27,8 +27,6 @@ namespace Student
         
         public Person.Person ToPerson()
         {
-            var pType = typeof(Person.Person);
-            var pProps = pType.GetProperties();
             var p = new Person.Person("a", "", 0);
             foreach (var e in p.ClassProperties())
                 if (this.ClassProperties().Contains(e))
