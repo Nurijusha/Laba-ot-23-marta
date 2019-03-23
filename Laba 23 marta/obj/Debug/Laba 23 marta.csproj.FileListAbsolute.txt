@@ -1,0 +1,20 @@
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Laba 23 marta.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Laba 23 marta.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Laba 23 marta.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.csprojAssemblyReference.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.csproj.CoreCompileInputs.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Student.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Teacher.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Person.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Student.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Student.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Teacher.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\Teacher.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.csproj.CopyComplete
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.exe.config

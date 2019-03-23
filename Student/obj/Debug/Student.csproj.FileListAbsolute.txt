@@ -1,0 +1,11 @@
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Student.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Student.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Student.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\obj\Debug\Student.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\obj\Debug\Student.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\bin\Debug\Person.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Student\obj\Debug\Student.csproj.CopyComplete

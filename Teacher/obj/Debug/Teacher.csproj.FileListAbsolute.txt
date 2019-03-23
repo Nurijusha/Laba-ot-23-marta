@@ -1,0 +1,14 @@
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\obj\Debug\Teacher.csprojAssemblyReference.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Teacher.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Teacher.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Teacher.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\obj\Debug\Teacher.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\obj\Debug\Teacher.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Student.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Person.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Student.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\bin\Debug\Student.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Teacher\obj\Debug\Teacher.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\bin\Debug\Person.exe.config
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\bin\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\bin\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\obj\Debug\Person.exe
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\obj\Debug\Person.pdb
+C:\Users\Tagmir\source\repos\Laba 23 marta\Person\obj\Debug\Person.csprojAssemblyReference.cache
