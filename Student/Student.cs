@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Person;
 
 namespace Student
 {
@@ -33,6 +34,11 @@ namespace Student
                     e.SetValue(p, this.ClassProperties()[this.ClassProperties().ToList().BinarySearch(e)]);
             return p;
                     
+        }
+
+        public override Person.Person FullClone()
+        {
+            return base.FullClone();
         }
 
         public static Student RandomStudent(List<Person.Person> list)

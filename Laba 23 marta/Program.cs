@@ -41,12 +41,13 @@ namespace Laba_23_marta
                 }
             }
             Console.WriteLine("Студентов в списке(после перевода на след.курс): " + people.Where(x => (x is Student.Student || x is StudentWithAdvisor.StudentWithAdvisor)).Count());
-            var students = people.Where(x => x is Student.Student).ToArray();
-            Student.Student[] ss = (Student.Student[])students;
-            /*for (int i = 0; i < students.Length; i++)
-                students[i] = students[i] as Student.Student;*/
+            var students = new Student.Student[]{ s1,s2,s3,s4};
             Array.Sort(students);
             #endregion
+
+            var copiedstudent = s1.FullClone();
+            Console.WriteLine(copiedstudent.Equals(s1.Clone()));
+            var copiedteacher = t1.Clone();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Person
 {
-    public class Person :ICloneable
+    public class Person :ICloneable, IDisposable
     {
         private static Random random = new Random();
         public string Name { get; private set; }
@@ -18,6 +18,12 @@ namespace Person
             this.Age = age;
             this.Name = Name;
         }
+
+        public Person()
+        {
+
+        }
+
         public virtual void Print()
         {
             Console.Write(this.ToString());
@@ -26,6 +32,19 @@ namespace Person
         {
             int rndNum = random.Next(0, list.Count - 1);
             return list[rndNum];
+        }
+
+        public virtual Person FullClone()
+        {
+            /*var clone = new Person();
+            foreach (var e in clone.ClassProperties())
+            {
+                int i = clone.ClassProperties().ToList().BinarySearch(e);
+                e.SetValue(clone, clone.ClassProperties()[i]);
+
+            }
+            return clone;*/
+            return (Person)this.MemberwiseClone();
         }
 
         #region basefuncs
@@ -51,9 +70,13 @@ namespace Person
             var p2 = obj as Person;
             var p1Props = ClassProperties();
             var p2Props = p2.ClassProperties();
-            for(int i = 0; i<p2Props.Length;i++)
-                if (p1Props[i].GetValue(this).Equals(p2Props[i].GetValue(p2))) continue;
-                    else return false;
+            for (int i = 0; i < p2Props.Length; i++)
+            {
+                var tmp1 = p1Props[i].GetValue(this);
+                var tmp2 = p2Props[i].GetValue(p2);
+                if (tmp1.Equals(tmp2)) continue;
+                else return false;
+            }
             return true;
         }
         public override int GetHashCode()
@@ -63,7 +86,12 @@ namespace Person
 
         public object Clone()
         {
-            return (Person)this;
+            return (Person)this.FullClone();
+        }
+
+        public void Dispose()
+        {
+            Console.WriteLine("Меня вызвали ©Dispose");
         }
 
         public static bool operator ==(Person p1, Person p2)
