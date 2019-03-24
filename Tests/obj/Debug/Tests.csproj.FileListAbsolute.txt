@@ -27,3 +27,32 @@ C:\Users\Tagmir\source\repos\Laba ot 23 marta\Tests\obj\Debug\Tests.csproj.CoreC
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Tests\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Tests\obj\Debug\Tests.dll
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Tests\obj\Debug\Tests.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Tests.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Tests.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Person.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Student.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\StudentWithAdvisor.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Teacher.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Person.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Person.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\StudentWithAdvisor.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\StudentWithAdvisor.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Student.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Student.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Teacher.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Teacher.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\obj\Debug\Tests.dll
+C:\юлерн 2 сем\Laba-ot-23-marta\Tests\obj\Debug\Tests.pdb

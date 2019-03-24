@@ -20,3 +20,14 @@ C:\Users\Tagmir\source\repos\Laba ot 23 marta\Student\obj\Debug\Student.csproj.C
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Student\obj\Debug\Student.csproj.CopyComplete
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Student\obj\Debug\Student.exe
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Student\obj\Debug\Student.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Student.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Student.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Student.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Person.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Person.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\bin\Debug\Person.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\obj\Debug\Student.csproj.CopyComplete
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\obj\Debug\Student.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Student\obj\Debug\Student.pdb

@@ -38,3 +38,23 @@ C:\Users\Tagmir\source\repos\Laba ot 23 marta\Laba 23 marta\obj\Debug\Laba 23 ma
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.csproj.CopyComplete
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.exe
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Laba 23 marta\obj\Debug\Laba 23 marta.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Laba 23 marta.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Laba 23 marta.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Laba 23 marta.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Person.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Student.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Teacher.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Person.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Person.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\StudentWithAdvisor.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Student.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Student.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Teacher.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\bin\Debug\Teacher.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\obj\Debug\Laba 23 marta.csprojAssemblyReference.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\obj\Debug\Laba 23 marta.csproj.CoreCompileInputs.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\obj\Debug\Laba 23 marta.csproj.CopyComplete
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\obj\Debug\Laba 23 marta.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Laba 23 marta\obj\Debug\Laba 23 marta.pdb

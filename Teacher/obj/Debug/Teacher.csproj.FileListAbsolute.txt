@@ -26,3 +26,17 @@ C:\Users\Tagmir\source\repos\Laba ot 23 marta\Teacher\obj\Debug\Teacher.csproj.C
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Teacher\obj\Debug\Teacher.csproj.CopyComplete
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Teacher\obj\Debug\Teacher.exe
 C:\Users\Tagmir\source\repos\Laba ot 23 marta\Teacher\obj\Debug\Teacher.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Teacher.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Teacher.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Teacher.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Person.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Student.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Person.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Person.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Student.pdb
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\bin\Debug\Student.exe.config
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\obj\Debug\Teacher.csprojAssemblyReference.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\obj\Debug\Teacher.csproj.CopyComplete
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\obj\Debug\Teacher.exe
+C:\юлерн 2 сем\Laba-ot-23-marta\Teacher\obj\Debug\Teacher.pdb
