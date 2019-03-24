@@ -47,6 +47,22 @@ namespace Tests
             Assert.AreEqual(false, p1.GetHashCode() == p2.GetHashCode());
         }
         #endregion
+        #region CloneTests
+        [TestMethod]
+        public void CorrectClone()
+        {
+            var p1 = new Person.Person("Anna", "Ivanova", 33);
+            var p2 = p1.Clone();
+            Assert.AreEqual(p1, p2);
+        }
+        [TestMethod]
+        public void CorrectFullClone()
+        {
+            var p1 = new Person.Person("Anna", "Ivanova", 33);
+            var p2 = p1.FullClone();
+            Assert.AreEqual(p1, p2);
+        }
+        #endregion
     }
     [TestClass]
     public class StudentTests
@@ -91,22 +107,57 @@ namespace Tests
             Assert.AreEqual(false, s1.GetHashCode()==s2.GetHashCode());
         }
         #endregion
+        #region CloneTests
+        [TestMethod]
+        public void StudentCloneTest()
+        {
+            var s1 = new Student.Student("Mariya", "Petrova", 19, 2, 90);
+            Assert.AreEqual(s1, s1.Clone());
+        }
+        [TestMethod]
+        public void StudentWithAdvisorCloneTest()
+        {
+            
+            var s1 = new StudentWithAdvisor.StudentWithAdvisor("Mariya", "Petrova", 19, 2, 90, TeacherTests.t1);
+            Assert.AreEqual(s1, s1.Clone());
+        }
+        [TestMethod]
+        public void StudentFullCloneTest()
+        {
+            var s1 = new Student.Student("Mariya", "Petrova", 19, 2, 90);
+            Assert.AreEqual(s1, s1.FullClone());
+        }
+        [TestMethod]
+        public void StudentWithAdvisorFullCloneTest()
+        {
+            var s1 = new StudentWithAdvisor.StudentWithAdvisor("Mariya", "Petrova", 19, 2, 90, TeacherTests.t1);
+            Assert.AreEqual(s1, s1.FullClone());
+        }
+        #endregion
     }
     [TestClass]
     public class TeacherTests
     {
-        static Teacher.Teacher t1 = new Teacher.Teacher("n1", "ln1", 25, "PE");
+        public static Teacher.Teacher t1 = new Teacher.Teacher("n1", "ln1", 25, "PE");
         static Teacher.Teacher t2 = new Teacher.Teacher("n2", "ln2", 33, "Physics");
         static Teacher.Teacher t3 = new Teacher.Teacher("n1", "ln1", 25, "PE");
+        static Student.Student s1 = new Student.Student("Mariya", "Petrova", 19, 2, 90);
+        static Student.Student s2 = new Student.Student("Petr", "Petrov", 18, 1, 88);
+        
         #region EqualsTest
         [TestMethod]
         public void EqualsTestToFalse()
         {
+            t1.AddStudent(s1);
+            t1.AddStudent(s2);
+            t2.AddStudent(s1);
             Assert.AreEqual(false, t1.Equals(t2));
         }
         [TestMethod]
         public void EqualsTestToTrue()
         {
+            t1.AddStudent(s1);
+            t2.AddStudent(s1);
             Assert.AreEqual(true, t1.Equals(t3));
         }
         #endregion
@@ -127,6 +178,22 @@ namespace Tests
         public void HashCodesAreNotEqual()
         {
             Assert.AreEqual(false, t1.GetHashCode() == t2.GetHashCode());
+        }
+        #endregion
+        #region CloneTests
+        [TestMethod]
+        public void CloneTest()
+        {
+            t1.AddStudent(s1);
+            t1.AddStudent(s2);
+            Assert.AreEqual(t1, t1.Clone());
+        }
+        [TestMethod]
+        public void FullCloneTest()
+        {
+            t1.AddStudent(s1);
+            t1.AddStudent(s2);
+            Assert.AreEqual(t1, t1.FullClone());
         }
         #endregion
     }

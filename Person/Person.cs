@@ -35,15 +35,7 @@ namespace Person
         }
 
         public virtual Person FullClone()
-        {
-            /*var clone = new Person();
-            foreach (var e in clone.ClassProperties())
-            {
-                int i = clone.ClassProperties().ToList().BinarySearch(e);
-                e.SetValue(clone, clone.ClassProperties()[i]);
-
-            }
-            return clone;*/
+        {   
             return (Person)this.MemberwiseClone();
         }
 
